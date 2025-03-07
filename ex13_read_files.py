@@ -52,3 +52,12 @@ if __name__ == "__main__":
     # print(delist(mylist))
     sample0()
     pass
+
+# ex1
+
+
+file = open("facts.txt","r")
+file_content = file.read()
+print("Following was read from the file: " + file_content)
+
+file.close()
