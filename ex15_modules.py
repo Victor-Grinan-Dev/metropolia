@@ -48,4 +48,11 @@ def Foot_Nuke_Cockroach():
                 wins += 1
         rounds += 1
 
-Foot_Nuke_Cockroach()
+# Foot_Nuke_Cockroach()
+
+def tryme(text):
+    if len(text) >= 6 and not (text.isalpha() or text.isnumeric()):
+        return True
+    return False
+
+print(tryme("asdasd123"))

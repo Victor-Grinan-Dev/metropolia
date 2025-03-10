@@ -50,14 +50,14 @@ def write_sample():
 if __name__ == "__main__":
     # mylist = [0,1,2,3,4,5,6,7,8,9]
     # print(delist(mylist))
-    sample0()
+    #sample0()
     pass
 
 # ex1
 
 
-file = open("facts.txt","r")
-file_content = file.read()
-print("Following was read from the file: " + file_content)
+#file = open("facts.txt","r")
+#file_content = file.read()
+#print("Following was read from the file: " + file_content)
 
-file.close()
+#file.close()
