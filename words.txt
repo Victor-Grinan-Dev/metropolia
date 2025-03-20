@@ -1,0 +1,11 @@
+salesman
+aardvark
+table
+beercase
+hammer
+car
+nail
+house
+milk
+beer
+buzz
